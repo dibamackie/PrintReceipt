@@ -1,4 +1,4 @@
-# PrintReceipt
+# PrintReceipt - Order & Receipt Calculation App
 
 ## Description
 A simple Android app that calculates the total cost of photo and canvas orders based on size, quantity, tax, and optional delivery fees.
